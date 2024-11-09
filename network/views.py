@@ -11,6 +11,11 @@ import json
 from .models import *
 
 
+
+def dashboard(request):
+    # You can add logic here to pass data to your template or handle different cases
+    return render(request, 'network/dashboard.html', {})
+
 def index(request):
     all_posts = Post.objects.all().order_by('-date_created')
     paginator = Paginator(all_posts, 10)
