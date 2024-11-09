@@ -1,0 +1,51 @@
+ParticipantID,EventID,Name,Gender,AcademicBackground,City,PaymentMethod,AttendanceStatus,EventName,EventType,EventDate,Location
+1,8,Participant_1,Homme,Arts,Nabeul,Espèces,Présent,Journée de la Créativité Monastir,Hackathon,2025-01-20,Monastir
+4,8,Participant_4,Autre,Ingénierie,Monastir,Virement Bancaire,Absent,Journée de la Créativité Monastir,Hackathon,2025-01-20,Monastir
+12,8,Participant_12,Homme,Gestion des affaires,Monastir,Virement Bancaire,Absent,Journée de la Créativité Monastir,Hackathon,2025-01-20,Monastir
+24,8,Participant_24,Homme,Biologie,Sfax,Virement Bancaire,Présent,Journée de la Créativité Monastir,Hackathon,2025-01-20,Monastir
+32,8,Participant_32,Femme,Informatique,Bizerte,Espèces,Absent,Journée de la Créativité Monastir,Hackathon,2025-01-20,Monastir
+40,8,Participant_40,Femme,Biologie,Bizerte,Virement Bancaire,Présent,Journée de la Créativité Monastir,Hackathon,2025-01-20,Monastir
+2,10,Participant_2,Homme,Informatique,Bizerte,Virement Bancaire,Présent,Conférence Environnementale Nabeul,Conference,2025-08-10,Monastir
+27,10,Participant_27,Autre,Arts,Kairouan,Virement Bancaire,Absent,Conférence Environnementale Nabeul,Conference,2025-08-10,Monastir
+30,10,Participant_30,Autre,Biologie,Bizerte,Espèces,Présent,Conférence Environnementale Nabeul,Conference,2025-08-10,Monastir
+33,10,Participant_33,Homme,Ingénierie,Kairouan,Virement Bancaire,Présent,Conférence Environnementale Nabeul,Conference,2025-08-10,Monastir
+38,10,Participant_38,Homme,Arts,Tunis,Espèces,Absent,Conférence Environnementale Nabeul,Conference,2025-08-10,Monastir
+3,5,Participant_3,Autre,Ingénierie,Monastir,Virement Bancaire,Présent,Forum des Startups Sfax,Hackathon,2025-01-19,Sousse
+9,5,Participant_9,Autre,Arts,Monastir,Virement Bancaire,Absent,Forum des Startups Sfax,Hackathon,2025-01-19,Sousse
+23,5,Participant_23,Femme,Ingénierie,Tunis,Espèces,Présent,Forum des Startups Sfax,Hackathon,2025-01-19,Sousse
+25,5,Participant_25,Femme,Arts,Tunis,Virement Bancaire,Absent,Forum des Startups Sfax,Hackathon,2025-01-19,Sousse
+28,5,Participant_28,Homme,Gestion des affaires,Sousse,Espèces,Présent,Forum des Startups Sfax,Hackathon,2025-01-19,Sousse
+34,5,Participant_34,Femme,Gestion des affaires,Kairouan,Espèces,Présent,Forum des Startups Sfax,Hackathon,2025-01-19,Sousse
+39,5,Participant_39,Homme,Biologie,Tunis,Espèces,Présent,Forum des Startups Sfax,Hackathon,2025-01-19,Sousse
+41,5,Participant_41,Homme,Informatique,Tunis,Virement Bancaire,Absent,Forum des Startups Sfax,Hackathon,2025-01-19,Sousse
+43,5,Participant_43,Homme,Gestion des affaires,Gafsa,Espèces,Présent,Forum des Startups Sfax,Hackathon,2025-01-19,Sousse
+5,3,Participant_5,Autre,Arts,Kairouan,Virement Bancaire,Absent,Salon de l'Informatique Sousse,Seminar,2025-10-22,Sfax
+7,3,Participant_7,Homme,Informatique,Sousse,Virement Bancaire,Absent,Salon de l'Informatique Sousse,Seminar,2025-10-22,Sfax
+10,3,Participant_10,Autre,Gestion des affaires,Sousse,Espèces,Absent,Salon de l'Informatique Sousse,Seminar,2025-10-22,Sfax
+16,3,Participant_16,Autre,Biologie,Nabeul,Virement Bancaire,Absent,Salon de l'Informatique Sousse,Seminar,2025-10-22,Sfax
+47,3,Participant_47,Femme,Ingénierie,Gafsa,Virement Bancaire,Présent,Salon de l'Informatique Sousse,Seminar,2025-10-22,Sfax
+50,3,Participant_50,Autre,Gestion des affaires,Tunis,Espèces,Absent,Salon de l'Informatique Sousse,Seminar,2025-10-22,Sfax
+6,7,Participant_6,Femme,Gestion des affaires,Gafsa,Virement Bancaire,Absent,Conférence de la Jeunesse Kairouan,Hackathon,2025-03-16,Sfax
+13,7,Participant_13,Homme,Informatique,Bizerte,Virement Bancaire,Présent,Conférence de la Jeunesse Kairouan,Hackathon,2025-03-16,Sfax
+18,7,Participant_18,Femme,Biologie,Bizerte,Espèces,Absent,Conférence de la Jeunesse Kairouan,Hackathon,2025-03-16,Sfax
+8,1,Participant_8,Autre,Informatique,Bizerte,Espèces,Présent,Hackathon Innovate TN,Conference,2024-11-30,Monastir
+11,1,Participant_11,Autre,Arts,Sfax,Espèces,Présent,Hackathon Innovate TN,Conference,2024-11-30,Monastir
+20,1,Participant_20,Femme,Gestion des affaires,Nabeul,Virement Bancaire,Absent,Hackathon Innovate TN,Conference,2024-11-30,Monastir
+26,1,Participant_26,Femme,Gestion des affaires,Nabeul,Espèces,Absent,Hackathon Innovate TN,Conference,2024-11-30,Monastir
+35,1,Participant_35,Femme,Biologie,Sfax,Virement Bancaire,Absent,Hackathon Innovate TN,Conference,2024-11-30,Monastir
+14,9,Participant_14,Homme,Informatique,Nabeul,Virement Bancaire,Absent,Hackathon Éducation Numérique Gafsa,Seminar,2025-04-18,Sousse
+22,9,Participant_22,Autre,Ingénierie,Sousse,Virement Bancaire,Absent,Hackathon Éducation Numérique Gafsa,Seminar,2025-04-18,Sousse
+29,9,Participant_29,Femme,Gestion des affaires,Tunis,Espèces,Absent,Hackathon Éducation Numérique Gafsa,Seminar,2025-04-18,Sousse
+42,9,Participant_42,Femme,Biologie,Sousse,Virement Bancaire,Présent,Hackathon Éducation Numérique Gafsa,Seminar,2025-04-18,Sousse
+45,9,Participant_45,Autre,Arts,Gafsa,Espèces,Absent,Hackathon Éducation Numérique Gafsa,Seminar,2025-04-18,Sousse
+15,2,Participant_15,Femme,Ingénierie,Bizerte,Virement Bancaire,Présent,Conférence Technologique Carthage,Conference,2025-04-22,Monastir
+17,2,Participant_17,Autre,Ingénierie,Kairouan,Virement Bancaire,Absent,Conférence Technologique Carthage,Conference,2025-04-22,Monastir
+19,2,Participant_19,Homme,Arts,Bizerte,Virement Bancaire,Présent,Conférence Technologique Carthage,Conference,2025-04-22,Monastir
+31,2,Participant_31,Homme,Informatique,Sfax,Virement Bancaire,Présent,Conférence Technologique Carthage,Conference,2025-04-22,Monastir
+48,2,Participant_48,Autre,Arts,Sfax,Virement Bancaire,Absent,Conférence Technologique Carthage,Conference,2025-04-22,Monastir
+21,6,Participant_21,Autre,Biologie,Tunis,Espèces,Présent,Sommet AI et Big Data Bizerte,Hackathon,2025-05-21,Monastir
+46,6,Participant_46,Femme,Ingénierie,Tunis,Virement Bancaire,Absent,Sommet AI et Big Data Bizerte,Hackathon,2025-05-21,Monastir
+49,6,Participant_49,Autre,Gestion des affaires,Tunis,Espèces,Présent,Sommet AI et Big Data Bizerte,Hackathon,2025-05-21,Monastir
+36,4,Participant_36,Femme,Arts,Monastir,Virement Bancaire,Absent,Atelier de Développement Web Tunis,Workshop,2025-04-11,Bizerte
+37,4,Participant_37,Femme,Ingénierie,Tunis,Virement Bancaire,Présent,Atelier de Développement Web Tunis,Workshop,2025-04-11,Bizerte
+44,4,Participant_44,Autre,Informatique,Gafsa,Virement Bancaire,Absent,Atelier de Développement Web Tunis,Workshop,2025-04-11,Bizerte
